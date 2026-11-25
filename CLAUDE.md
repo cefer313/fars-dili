@@ -39,7 +39,9 @@ Bu fayldakı qaydalara hər söhbətdə əməl et.
 
 ## Mövcud materiallar
 
-- Əvvəlki söhbətdə hazırlanmış **"Fars dili 1-ci dərs"** və **"Fars dili 2-ci dərs"** PDF-ləri hələlik `cefer313/iphone` repozitoriyasında, `claude/confident-cray-07o93z` budağındadır (`Fars-dili-1-ci-ders.pdf`, `Fars-dili-2-ci-ders.pdf`). Onları bu repozitoriyaya köçürmək olar.
+- `dersler/01-elifba-salamlasma/` — 1-ci dərs: əlifba (32 hərf), salamlaşma, «mən» (10 səh.).
+- `dersler/02-saylar-aile/` — 2-ci dərs: saylar 0–10, fars rəqəmləri, ailə, «Bu nədir?» (8 səh.).
+- Yeni dərslər bu iki dərsin dizaynında və davamı kimi hazırlanır (3-cü dərs → `dersler/03-...`). Hər iki dərs sıfırdan başlayanlar üçündür, müraciət "sən" formasındadır.
 
 ## Yeni qaydalar
 
